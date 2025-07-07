@@ -33,7 +33,7 @@
 ---
 
 ##  Getting Started
-> ⚠️ Ensure that you have your mobile phone connected as a emulator using 'flutter devices' in cmd.
+> ⚠️ Ensure that you have your mobile phone connected as a emulator and test it by using 'flutter devices' in cmd.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Bevinaa/Paw-Scan.git
