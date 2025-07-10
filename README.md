@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 -  Capture or select an image of a cat or dog.
 -  Backend uses ViT, Swin, and DeiT transformer models for breed classification.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 > ⚠️ Ensure that you have your two folders for flask and futter. After cloing the repository segregate the appropriate files to correct folders.
  
